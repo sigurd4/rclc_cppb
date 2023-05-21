@@ -1,5 +1,7 @@
 # rclc_cppb
-C++ OOP bindings for Micro-ROS implementation of rclc
+C++ OOP bindings for Micro-ROS implementation of rclc.
+
+This is an unofficial add-on for [micro-ros-arduino](https://github.com/micro-ROS/micro_ros_arduino).
 
 Officially supported hardware:
 - Portenta H7
